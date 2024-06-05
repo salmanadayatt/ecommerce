@@ -1,0 +1,17 @@
+body
+{
+background-color:#e66390;
+font-family: "Radio Canada Big", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.footer
+{
+height:50px;
+width:100%;
+position:fixed;
+background-color:grey;
+left:0;
+bottom:0;
+}
